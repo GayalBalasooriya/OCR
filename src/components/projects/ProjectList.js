@@ -18,8 +18,8 @@ const ProjectList = ({projects}) => {
             <ProjectSummary /> */}
      
          </div>
-
+        
      )
  }
 
- export default ProjectList
+ export default ProjectList                                                    
